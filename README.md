@@ -189,8 +189,17 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
