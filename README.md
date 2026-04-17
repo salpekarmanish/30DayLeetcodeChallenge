@@ -178,3 +178,19 @@ Day:  21  22  23  24  25  26  27  28  29  30
 <div align="center">
 <sub>Updated daily · Java Solutions · PG-DAC @ C-DAC Pune · DSA Grind 2026</sub>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
