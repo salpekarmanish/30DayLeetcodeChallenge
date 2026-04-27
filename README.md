@@ -185,6 +185,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
 ## String Matching
 |  |
 | ------- |
@@ -210,4 +212,8 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
