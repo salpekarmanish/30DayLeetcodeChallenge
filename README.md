@@ -186,6 +186,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | ------- |
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -216,4 +217,17 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
