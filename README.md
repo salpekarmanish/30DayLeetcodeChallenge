@@ -189,6 +189,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
