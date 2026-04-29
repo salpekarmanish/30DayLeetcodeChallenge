@@ -191,6 +191,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0219-contains-duplicate-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
