@@ -198,12 +198,14 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
+| [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
+| [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
 ## Trie
 |  |
 | ------- |
