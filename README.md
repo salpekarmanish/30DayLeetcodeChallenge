@@ -196,11 +196,13 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0485-max-consecutive-ones](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0219-contains-duplicate-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 ## Divide and Conquer
 |  |
 | ------- |
