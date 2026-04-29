@@ -195,6 +195,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,4 +260,12 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0495-teemo-attacking) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
