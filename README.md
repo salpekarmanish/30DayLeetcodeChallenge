@@ -201,6 +201,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2815-max-pair-sum-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2815-max-pair-sum-in-an-array) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## String
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 | [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Trie
 |  |
 | ------- |
