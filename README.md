@@ -193,6 +193,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0414-third-maximum-number](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 ## String
 |  |
 | ------- |
