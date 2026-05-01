@@ -190,6 +190,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
@@ -220,6 +221,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
@@ -239,6 +241,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
@@ -248,6 +251,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
@@ -281,4 +285,8 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
