@@ -210,6 +210,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0013-roman-to-integer](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0043-multiply-strings) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 | [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -280,6 +281,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0043-multiply-strings) |
 | [0495-teemo-attacking](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0495-teemo-attacking) |
 ## Stack
 |  |
@@ -298,4 +300,5 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | ------- |
 | [0012-integer-to-roman](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
