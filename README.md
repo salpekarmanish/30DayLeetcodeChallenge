@@ -206,6 +206,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -249,6 +250,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
@@ -294,5 +296,6 @@ Day:  21  22  23  24  25  26  27  28  29  30
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
