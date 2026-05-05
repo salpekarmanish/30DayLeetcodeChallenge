@@ -199,6 +199,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -227,6 +228,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0283-move-zeroes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0414-third-maximum-number](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -299,6 +302,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
