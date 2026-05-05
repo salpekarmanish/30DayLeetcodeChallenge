@@ -198,6 +198,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0495-teemo-attacking](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
+| [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -247,6 +248,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
+| [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -260,6 +262,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
+| [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2815-max-pair-sum-in-an-array) |
 ## Divide and Conquer
@@ -295,6 +298,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 ## Math
 |  |
 | ------- |
