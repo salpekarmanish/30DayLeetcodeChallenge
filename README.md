@@ -199,6 +199,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -257,6 +258,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0414-third-maximum-number](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -276,6 +278,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
+| [0645-set-mismatch](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
@@ -326,6 +329,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
