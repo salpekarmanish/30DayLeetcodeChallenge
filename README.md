@@ -214,6 +214,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0043-multiply-strings) |
+| [0389-find-the-difference](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 | [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -249,6 +250,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
@@ -264,6 +266,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
@@ -312,4 +315,8 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0012-integer-to-roman](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0043-multiply-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
