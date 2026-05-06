@@ -203,6 +203,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -260,6 +261,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -286,6 +288,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Sliding Window
 |  |
 | ------- |
