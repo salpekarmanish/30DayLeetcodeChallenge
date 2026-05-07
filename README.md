@@ -207,6 +207,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -270,6 +271,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -288,6 +290,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2815-max-pair-sum-in-an-array) |
 ## Divide and Conquer
@@ -312,6 +315,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | ------- |
 | [0043-multiply-strings](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0043-multiply-strings) |
 | [0495-teemo-attacking](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0495-teemo-attacking) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Stack
 |  |
 | ------- |
