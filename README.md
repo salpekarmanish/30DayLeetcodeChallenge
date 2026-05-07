@@ -203,6 +203,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0747-largest-number-at-least-twice-of-others](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -236,6 +237,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
@@ -264,6 +266,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0747-largest-number-at-least-twice-of-others](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -283,6 +286,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2784-check-if-array-is-good](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/2815-max-pair-sum-in-an-array) |
@@ -321,6 +325,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
