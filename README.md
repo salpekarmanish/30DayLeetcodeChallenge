@@ -185,6 +185,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
@@ -299,6 +300,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -349,4 +351,8 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0506-relative-ranks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
