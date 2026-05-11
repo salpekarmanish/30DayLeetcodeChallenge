@@ -201,6 +201,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0500-keyboard-row](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0905-sort-array-by-parity) |
@@ -355,4 +356,8 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
