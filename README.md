@@ -188,6 +188,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0053-maximum-subarray](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0283-move-zeroes) |
@@ -343,6 +344,7 @@ Day:  21  22  23  24  25  26  27  28  29  30
 | [0012-integer-to-roman](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0043-multiply-strings) |
+| [0204-count-primes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0204-count-primes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -360,4 +362,12 @@ Day:  21  22  23  24  25  26  27  28  29  30
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0724-find-pivot-index) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/salpekarmanish/30DayLeetcodeChallenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
